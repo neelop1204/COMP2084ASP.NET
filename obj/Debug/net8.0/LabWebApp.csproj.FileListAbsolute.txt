@@ -262,3 +262,4 @@ C:\LabWebApp\obj\Debug\net8.0\LabWebApp.genruntimeconfig.cache
 C:\LabWebApp\obj\Debug\net8.0\ref\LabWebApp.dll
 C:\LabWebApp\bin\Debug\net8.0\AspNet.Security.OAuth.GitHub.dll
 C:\LabWebApp\bin\Debug\net8.0\Octokit.dll
+C:\LabWebApp\obj\Debug\net8.0\LabWebApp.sourcelink.json

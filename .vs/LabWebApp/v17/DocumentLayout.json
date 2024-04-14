@@ -3,20 +3,27 @@
   "WorkspaceRootPath": "C:\\LabWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|c:\\labwebapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|c:\\labwebapp\\controllers\\products1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|solutionrelative:controllers\\products1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|c:\\labwebapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BF805D2D-650E-45B9-B05C-B5212EB6D808}|..\\Lab-3 ASP.NET\\TestProject1\\LabWebApp.Tests.csproj|c:\\lab-3 asp.net\\testproject1\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|c:\\labwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|c:\\labwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|c:\\labwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|c:\\labwebapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|c:\\labwebapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCA6980B-1928-4772-859A-1DCC7632E1B3}|LabWebApp.csproj|c:\\labwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,6 +57,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
@@ -58,20 +69,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\LabWebApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\LabWebApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAqwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T20:10:25.699Z",
+              "DocumentIndex": 0,
+              "Title": "Products1Controller.cs",
+              "DocumentMoniker": "C:\\LabWebApp\\Controllers\\Products1Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Products1Controller.cs",
+              "ToolTip": "C:\\LabWebApp\\Controllers\\Products1Controller.cs",
+              "RelativeToolTip": "Controllers\\Products1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:02:49.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "C:\\Lab-3 ASP.NET\\TestProject1\\ProductTests.cs",
+              "RelativeDocumentMoniker": "..\\Lab-3 ASP.NET\\TestProject1\\ProductTests.cs",
+              "ToolTip": "C:\\Lab-3 ASP.NET\\TestProject1\\ProductTests.cs",
+              "RelativeToolTip": "..\\Lab-3 ASP.NET\\TestProject1\\ProductTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:51:33.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\LabWebApp\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
@@ -84,20 +108,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LabWebApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\LabWebApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAAE8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T19:15:44.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\LabWebApp\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -110,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\LabWebApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -123,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\LabWebApp\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -131,7 +155,21 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T19:06:09.185Z"
+              "WhenOpened": "2024-03-07T19:06:09.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\LabWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\LabWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T20:10:25.699Z",
+              "EditorCaption": ""
             }
           ]
         }
